@@ -1,2 +1,2 @@
 # Bioinformatica
-repositorio1
+Abrir la carpeta Deber 1
