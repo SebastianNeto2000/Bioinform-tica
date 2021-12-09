@@ -1,2 +1,2 @@
-# Bioinform-tica
+# Bioinformatica
 repositorio1
