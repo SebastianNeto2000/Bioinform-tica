@@ -4,8 +4,8 @@ rectangulares donde las filas son polinizadores, las columnas plantas, un 0 indi
 de una interacción entre planta y polinizador 
 
 # EJERCICIO PARTE 1:
-Escriba un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas).
-Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio en al final de cada línea. 
+Escriba un script que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas),
+tenga en cuenta que las columnas están separadas por espacios y que hay un espacio en al final de cada línea. 
 
 La ejecución se realiza en el script <netsize.sh>
 
