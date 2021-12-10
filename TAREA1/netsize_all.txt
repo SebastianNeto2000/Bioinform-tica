@@ -117,5 +117,3 @@
 33
 12 n9.txt
 22
-1 netsize.txt
-3
