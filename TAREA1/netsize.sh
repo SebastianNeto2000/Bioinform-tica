@@ -4,4 +4,6 @@ cd Saavedra2013
 cat n1.txt
 # Finalmente se obtiene el número de filas y columnas con el siguiente codigo
 echo "El ńumero de columnas es:" ; head -n1 n1.txt | grep -o " " | wc -l ; echo "El numero de filas es:" ; wc -l n1.txt; echo "Fin de la ejecucion"
-
+# Se obtiene el resultado:
+# El numero de columnas es:80
+# El numero de filas es: 97
