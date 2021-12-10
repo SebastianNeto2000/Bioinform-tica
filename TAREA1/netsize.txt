@@ -1,4 +1,4 @@
-Resultado del ejercicio 1
+# Resultado del ejercicio 1
 El ńumero de columnas es:
 80
 El numero de filas es:
